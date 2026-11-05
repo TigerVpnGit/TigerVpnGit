@@ -1,6 +1,6 @@
 <div align="center">
   <!-- لوگو را در مخزن خود آپلود کنید و لینک آن را جایگزین لینک زیر کنید -->
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/logo.png?raw=true" alt="Tiger VPN Logo" width="250"/>
+  <img src="https://github.com/TigerVpnGit/TigerVpnGit/blob/main/logo.png?raw=true" alt="Tiger VPN Logo" width="250"/>
   
   <h1>🐯 Tiger VPN | تایگر وی پی ان</h1>
   
